@@ -95,7 +95,7 @@ isLogin ? console.log("Вошел") : console.log("Не вошел");
 
 let isLogin = false;
 
-if (isLogin === true) {
+if (isLogin) {
 	console.log('Вошел');
 } else {
 	console.log('Не вошел');
